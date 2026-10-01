@@ -1,6 +1,7 @@
 # 2026-10-04~05 · 대천 Hotel Solaire 1박
 
 - **카테고리:** 바다 · 맛집 · 생새우회 · 1박
+- **지역 구분:** 국내 · 대한민국 · 충남 보령
 - **상태:** 숙소 확정 · 식당 미확정
 - **정보 검토일:** 2026-10-01 (여행일과 다름. 메뉴·재고·영업은 방문 당일 재확인)
 
@@ -39,6 +40,8 @@
 - [상화원 공식 공지](https://www.sanghwawon.com/) · [상화원 위치·주차 안내](https://www.sanghwawon.com/location) · [스카이바이크 운영 안내](https://tour.chungnam.go.kr/prog/trsrcn/kor/sub02_01_02/view.do?trsrcnNo=469) · [스카이바이크 공식 예매](https://home-ticket.co.kr/dcskybike/mall/)
 
 [공유용 일정 HTML](course-options.html)
+
+공유 페이지는 날짜별 일정과 장소 카드로 구성했습니다. 숙소·식당·관광지의 지도 버튼은 각 카드 하단에 있으며, 출처와 상세 확인 사항은 접어둔 안내에서 볼 수 있습니다.
 
 ## 후기
 
