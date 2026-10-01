@@ -1,1 +1,80 @@
-<!doctype html><html lang="ko"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Date Courses</title><style>body{margin:0;background:#f5f3ee;color:#18201e;font-family:-apple-system,BlinkMacSystemFont,"Apple SD Gothic Neo","Noto Sans KR",sans-serif}main{max-width:850px;margin:auto;padding:28px 20px 60px}h1{font-size:48px;letter-spacing:-.05em;margin:28px 0 8px}.sub{color:#68716d}section{margin-top:34px}h2{font-size:21px}.item{display:block;background:#fff;border:1px solid #ded9cf;border-radius:18px;padding:18px;margin:11px 0;text-decoration:none;color:inherit}.item b{font-size:19px}.meta{display:block;color:#68716d;font-size:13px;margin-top:6px}.tag{font-size:11px;background:#e8f1f2;color:#164e63;border-radius:99px;padding:5px 8px;font-weight:800;margin-right:5px}</style></head><body><main><h1>Date Courses</h1><p class="sub">데이트와 1박 여행 기록. 날짜별로 보존하고 테마로 분류.</p><section><h2>최신 기록</h2><a class="item" href="courses/2026/2026-10-01-daecheon-solaire/course-options.html"><span class="tag">바다</span><span class="tag">맛집</span><span class="tag">1박</span><br><b>대천 · Hotel Solaire</b><span class="meta">2026-10-01 · 생새우회 / 대천해수욕장 / 상화원</span></a><a class="item" href="courses/2026/2026-09-30-taean-anmyeondo/course-options.html"><span class="tag">바다</span><span class="tag">후보조사</span><br><b>태안 · 안면도</b><span class="meta">2026-09-30 · 대하 / 회 / 꽃지</span></a><a class="item" href="courses/2026/2026-09-29-one-night-candidates/course-options.html"><span class="tag">후보조사</span><br><b>1박 여행 후보 비교</b><span class="meta">2026-09-29 · 태안 / 속초 / 대천 / 가평 / 양평 / 영월</span></a><a class="item" href="courses/2026/2026-09-19-suwon-tatsumi/"><span class="tag">데이트</span><br><b>수원 행궁동 / 동탄호수공원</b><span class="meta">2026-09-19</span></a></section><section><h2>카테고리</h2><div class="item"><b>바다</b><span class="meta">대천 · 태안/안면도</span></div><div class="item"><b>맛집</b><span class="meta">생새우회 · 대하 · 회</span></div><div class="item"><b>후보조사</b><span class="meta">1박 지역 비교 · 숙소 비교</span></div></section></main></body></html>
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#f5f3ee">
+  <title>Date Courses · 데이트와 여행 기록</title>
+  <style>
+    * { box-sizing: border-box; }
+    body { margin: 0; background: #f5f3ee; color: #18201e; font-family: -apple-system, BlinkMacSystemFont, "Apple SD Gothic Neo", "Noto Sans KR", sans-serif; }
+    main { max-width: 850px; margin: auto; padding: 28px 18px 60px; }
+    h1 { font-size: clamp(36px, 8vw, 50px); letter-spacing: -.05em; margin: 20px 0 8px; }
+    h2 { font-size: 22px; margin: 34px 0 16px; }
+    p { line-height: 1.6; }
+    .sub, .meta { color: #56625e; }
+    .filters { display: flex; flex-wrap: wrap; gap: 8px; margin: 16px 0 24px; }
+    button { cursor: pointer; min-height: 44px; border: 1px solid #bdd0d0; border-radius: 99px; background: #fff; color: #164e63; padding: 0 15px; font: inherit; font-weight: 700; }
+    button[aria-pressed="true"] { background: #164e63; color: #fff; }
+    a:focus-visible, button:focus-visible { outline: 3px solid #164e63; outline-offset: 3px; }
+    .item { display: block; background: #fff; border: 1px solid #ded9cf; border-radius: 18px; padding: 20px; margin: 12px 0; text-decoration: none; color: inherit; }
+    .item:hover { border-color: #164e63; }
+    .item h3 { font-size: 20px; margin: 10px 0 5px; }
+    .meta { display: block; font-size: 14px; line-height: 1.6; }
+    .tag { display: inline-block; margin: 0 4px 4px 0; padding: 5px 8px; border-radius: 99px; background: #e8f1f2; color: #164e63; font-size: 12px; font-weight: 800; }
+    [hidden] { display: none !important; }
+  </style>
+</head>
+<body>
+<main>
+  <header>
+    <h1>Date Courses</h1>
+    <p class="sub">둘의 데이트와 여행 기록. 최신 날짜부터 보고, 주제로 골라보기.</p>
+  </header>
+  <section aria-labelledby="courses-title">
+    <h2 id="courses-title">코스 기록</h2>
+    <nav class="filters" aria-label="카테고리 선택">
+      <button type="button" data-filter="all" aria-pressed="true">전체</button>
+      <button type="button" data-filter="바다" aria-pressed="false">바다</button>
+      <button type="button" data-filter="맛집" aria-pressed="false">맛집</button>
+      <button type="button" data-filter="1박" aria-pressed="false">1박</button>
+      <button type="button" data-filter="후보조사" aria-pressed="false">후보조사</button>
+      <button type="button" data-filter="데이트" aria-pressed="false">데이트</button>
+    </nav>
+    <div id="course-list">
+      <a class="item" href="courses/2026/2026-10-01-daecheon-solaire/course-options.html" data-categories="바다 맛집 1박">
+        <span class="tag">바다</span><span class="tag">맛집</span><span class="tag">1박</span>
+        <h3>대천 · Hotel Solaire</h3>
+        <span class="meta">2026-10-01 · 숙소 확정 · 대천항 생새우회/활어회 · 다음날 상화원 또는 대안</span>
+      </a>
+      <a class="item" href="courses/2026/2026-09-30-taean-anmyeondo/course-options.html" data-categories="바다 맛집 후보조사">
+        <span class="tag">바다</span><span class="tag">맛집</span><span class="tag">후보조사</span>
+        <h3>태안 · 안면도</h3>
+        <span class="meta">2026-09-30 · 대하 / 회 / 꽃지</span>
+      </a>
+      <a class="item" href="courses/2026/2026-09-29-one-night-candidates/course-options.html" data-categories="바다 1박 후보조사">
+        <span class="tag">바다</span><span class="tag">1박</span><span class="tag">후보조사</span>
+        <h3>1박 여행 후보 비교</h3>
+        <span class="meta">2026-09-29 · 태안 / 속초 / 대천 / 가평 / 양평 / 영월</span>
+      </a>
+      <a class="item" href="courses/2026/2026-09-19-suwon-tatsumi/course-options.html" data-categories="데이트 맛집">
+        <span class="tag">데이트</span><span class="tag">맛집</span>
+        <h3>수원 행궁동 / 동탄호수공원</h3>
+        <span class="meta">2026-09-19</span>
+      </a>
+    </div>
+  </section>
+</main>
+<script>
+  const buttons = document.querySelectorAll("[data-filter]");
+  const courses = document.querySelectorAll("[data-categories]");
+  buttons.forEach(button => button.addEventListener("click", () => {
+    const selected = button.dataset.filter;
+    buttons.forEach(item => item.setAttribute("aria-pressed", String(item === button)));
+    courses.forEach(course => {
+      course.hidden = selected !== "all" && !course.dataset.categories.split(" ").includes(selected);
+    });
+  }));
+</script>
+</body>
+</html>
