@@ -8,8 +8,8 @@
 courses/
   YYYY/
     YYYY-MM-DD-지역-짧은-이름/
-      README.md             # 코스 요약, 실제 방문 결과
-      course-options.html   # 공유용 HTML 일정표
+      README.md
+      course-options.html
 templates/
   course-readme-template.md
 ```
@@ -17,10 +17,17 @@ templates/
 ## 기록 규칙
 
 1. 새 코스마다 `courses/YYYY/YYYY-MM-DD-지역-짧은-이름/` 생성.
-2. 계획 단계에는 `README.md`와 필요한 HTML·사진·지도 링크 추가.
-3. 다녀온 뒤 같은 `README.md`의 `후기`만 업데이트. 원래 계획은 보존.
-4. 함께 관리할 사람은 GitHub `Settings → Collaborators`에서 초대. 각 코스 폴더만 수정하고, 모든 변경은 짧은 설명과 함께 commit.
+2. 계획 단계에는 `README.md`와 공유용 HTML을 추가.
+3. 다녀온 뒤 같은 `README.md`의 후기만 업데이트하고 원래 계획은 보존.
+4. 카테고리는 바다 / 맛집 / 드라이브 / 글램핑 / 1박 / 후보조사처럼 기록.
 
 ## 현재 기록
 
+- [2026-10-01 · 대천 / Hotel Solaire](courses/2026/2026-10-01-daecheon-solaire/) — 바다 · 맛집 · 생새우회 · 1박
+- [2026-09-30 · 태안 / 안면도](courses/2026/2026-09-30-taean-anmyeondo/) — 바다 · 대하 · 회 · 후보조사
+- [2026-09-29 · 1박 여행 후보 조사](courses/2026/2026-09-29-one-night-candidates/) — 후보조사 · 바다 · 자연
 - [2026-09-19 · 수원 행궁동 / 동탄호수공원](courses/2026/2026-09-19-suwon-tatsumi/)
+
+## 공유
+
+루트 `index.html`은 날짜 최신순과 카테고리로 코스를 탐색하는 GitHub Pages용 홈입니다.
