@@ -13,7 +13,12 @@ window.travelRecords = [
     "group": "scheduled",
     "kind": "plan",
     "region": "domestic",
-    "end": "2026-10-05"
+    "end": "2026-10-05",
+    "updatedAt": "2026-10-05",
+    "confirmedStops": ["대천 숙소 휴식", "보령 우유창고"],
+    "returnRecommendation": "해미읍성",
+    "plannedReturnStop": "해미읍성",
+    "returnAlternative": "융건릉"
   },
   {
     "id": "2026-10-01-gapyeong-glamtree-forest",
