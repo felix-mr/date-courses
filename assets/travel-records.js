@@ -1,6 +1,19 @@
 // Travel dates and record types are independent of folder research dates.
 window.travelRecords = [
   {
+    "id": "2026-10-10-jeongja-suji-raw-shrimp",
+    "group": "scheduled",
+    "kind": "plan",
+    "region": "domestic",
+    "start": "2026-10-10",
+    "end": "2026-10-10",
+    "approximateTime": "17:00",
+    "people": 2,
+    "restaurantStatus": "undecided",
+    "reservationStatus": "not-booked",
+    "updatedAt": "2026-10-07"
+  },
+  {
     "id": "2026-10-07-suwon-cake-walk",
     "group": "wishlist",
     "kind": "candidate",
