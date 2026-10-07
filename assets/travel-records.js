@@ -1,23 +1,42 @@
 // Travel dates and record types are independent of folder research dates.
 window.travelRecords = [
-{
-  "id": "2026-10-04-mungyeong-golden-trace",
-  "group": "wishlist",
-  "kind": "candidate",
-  "region": "domestic",
-  "preferredMonth": "2026-10",
-  "eventEnd": "2026-11-01"
-},
+  {
+    "id": "2026-10-07-suwon-cake-walk",
+    "group": "wishlist",
+    "kind": "candidate",
+    "region": "domestic",
+    "updatedAt": "2026-10-07"
+  },
+  {
+    "id": "2026-10-07-japan-winter-onsen",
+    "group": "wishlist",
+    "kind": "candidate",
+    "region": "overseas",
+    "country": "일본",
+    "preferredPeriod": "2026-12/2027-01",
+    "updatedAt": "2026-10-07"
+  },
+  {
+    "id": "2026-10-04-mungyeong-golden-trace",
+    "group": "wishlist",
+    "kind": "candidate",
+    "region": "domestic",
+    "preferredMonth": "2026-10",
+    "eventEnd": "2026-11-01"
+  },
   {
     "id": "2026-10-04-daecheon-solaire",
-    "group": "scheduled",
-    "kind": "plan",
+    "group": "history",
+    "kind": "visited",
     "region": "domestic",
     "end": "2026-10-05",
-    "updatedAt": "2026-10-05",
-    "confirmedStops": ["대천 숙소 휴식", "보령 우유창고"],
+    "updatedAt": "2026-10-07",
+    "confirmedStops": [
+      "대천 숙소 휴식",
+      "보령 우유창고",
+      "해미읍성"
+    ],
     "returnRecommendation": "해미읍성",
-    "plannedReturnStop": "해미읍성",
     "returnAlternative": "융건릉"
   },
   {
