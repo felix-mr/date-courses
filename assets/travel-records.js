@@ -1,17 +1,32 @@
 // Travel dates and record types are independent of folder research dates.
 window.travelRecords = [
   {
-    "id": "2026-10-10-jeongja-suji-raw-shrimp",
+    "id": "2026-10-18-gwacheon-yongin-zoo",
     "group": "scheduled",
     "kind": "plan",
     "region": "domestic",
+    "start": "2026-10-18",
+    "end": "2026-10-18",
+    "destinationStatus": "undecided",
+    "ticketStatus": "unknown",
+    "updatedAt": "2026-10-12"
+  },
+  {
+    "id": "2026-10-10-jeongja-suji-raw-shrimp",
+    "group": "history",
+    "kind": "visited",
+    "region": "domestic",
     "start": "2026-10-10",
     "end": "2026-10-10",
-    "approximateTime": "17:00",
     "people": 2,
-    "restaurantStatus": "undecided",
-    "reservationStatus": "not-booked",
-    "updatedAt": "2026-10-07"
+    "restaurantStatus": "visited",
+    "reservationStatus": "unknown",
+    "updatedAt": "2026-10-12",
+    "restaurant": "파도촌 분당정자본점",
+    "confirmedStops": [
+      "파도촌 분당정자본점"
+    ],
+    "plannedTime": "17:00"
   },
   {
     "id": "2026-10-07-suwon-cake-walk",
