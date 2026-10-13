@@ -37,7 +37,7 @@
 - 메뉴: 카모(오리) 스키야키 + 염원 후토마키
 - 정규 운영시간: 수요일 17:30–23:30 · 라스트오더 22:30
 - 차이: 오리 스키야키와 두툼한 후토마키를 함께 먹는 조합. 익힌 요리와 밥을 원할 때.
-- [네이버 지도](https://map.naver.com/p/search/%EC%97%BC%EC%9B%90%20%EA%B2%BD%EA%B8%B0%20%EC%88%98%EC%9B%90%EC%8B%9C%20%EC%98%81%ED%86%B5%EA%B5%AC%20%EC%84%BC%ED%8A%B8%EB%9F%B4%ED%8C%8C%ED%81%AC%EB%A1%9C127%EB%B2%88%EA%B8%B8%2080-14%2C%20101%ED%98%B8) · [출처](https://www.diningcode.com/profile.php?rid=zqpaEwEaP5xy) · [예약 안내](https://app.catchtable.co.kr/ct/shop/yeomwon?from=share&type=DINING) (예약 미정)
+- [네이버 지도](https://map.naver.com/p/entry/place/2069833282) · [출처](https://www.diningcode.com/profile.php?rid=zqpaEwEaP5xy) · [예약 안내](https://app.catchtable.co.kr/ct/shop/yeomwon?from=share&type=DINING) (예약 미정)
 
 ### 모로미쿠시 광교카페거리점
 
@@ -45,7 +45,7 @@
 - 메뉴: 모둠사시미 중 + 나가사키 나베
 - 정규 운영시간: 17:30–다음 날 01:00
 - 차이: 사시미와 따뜻한 해물 나베를 함께 먹는 조합. 회와 국물을 원할 때.
-- [네이버 지도](https://map.naver.com/p/search/%EB%AA%A8%EB%A1%9C%EB%AF%B8%EC%BF%A0%EC%8B%9C%20%EA%B4%91%EA%B5%90%EC%B9%B4%ED%8E%98%EA%B1%B0%EB%A6%AC%EC%A0%90%20%EA%B2%BD%EA%B8%B0%20%EC%88%98%EC%9B%90%EC%8B%9C%20%EC%98%81%ED%86%B5%EA%B5%AC%20%EC%84%BC%ED%8A%B8%EB%9F%B4%ED%8C%8C%ED%81%AC%EB%A1%9C127%EB%B2%88%EA%B8%B8%2048%2C%201%EC%B8%B5) · [출처](https://www.tabling.co.kr/place/677cc9f466de5f06987a3a02) · [대조 출처](https://www.diningcode.com/profile.php?rid=S4BSizglvuwU)
+- [네이버 지도](https://map.naver.com/p/entry/place/37093123) · [출처](https://www.tabling.co.kr/place/677cc9f466de5f06987a3a02) · [대조 출처](https://www.diningcode.com/profile.php?rid=S4BSizglvuwU)
 
 #### 주류 종류 · 도수와 맛
 
@@ -67,7 +67,7 @@
 - 정규 운영시간: 수요일 17:30 오픈 · 마감 23:00 / 다음 날 00:00 출처 불일치
 - 차이: 갈비살·버섯·어묵나베 세트에 볶음면을 더하는 조합. 일본식 구이와 면을 함께 원할 때.
 - 확인 사항: 마감시간이 출처마다 달라 방문 전 확인이 필요해요. 다이닝코드 시간은 17:30–다음 날 00:00, 라스트오더 23:00이에요.
-- [네이버 지도](https://map.naver.com/p/search/%ED%9B%84%EB%9D%BC%ED%9B%84%EB%9D%BC%20%EA%B2%BD%EA%B8%B0%20%EC%88%98%EC%9B%90%EC%8B%9C%20%EC%98%81%ED%86%B5%EA%B5%AC%20%EC%84%BC%ED%8A%B8%EB%9F%B4%ED%83%80%EC%9A%B4%EB%A1%9C%20107%2C%20%EC%9B%94%EB%93%9C%EC%8A%A4%ED%80%98%EC%96%B4%201-120) · [출처](https://www.tabling.co.kr/place/677cd22b66de5f06988937b5) · [대조 출처](https://www.diningcode.com/profile.php?rid=VrTY0JAmhSpx)
+- [네이버 지도](https://map.naver.com/p/entry/place/1852482619) · [출처](https://www.tabling.co.kr/place/677cd22b66de5f06988937b5) · [대조 출처](https://www.diningcode.com/profile.php?rid=VrTY0JAmhSpx)
 
 ### 백주방
 
@@ -76,7 +76,7 @@
 - 정규 운영시간: 수요일 16:00–다음 날 01:00
 - 차이: 숙성회, 꼬치와 구이·탕을 함께 고르는 곳. 메뉴 선택 폭을 보고 고르고 싶을 때.
 - 분위기 · 후기 기준: 후기에는 은은한 조명과 커튼으로 나뉜 좌석이 언급돼요. 독립된 룸 여부와 원하는 좌석은 확인이 필요해요.
-- [네이버 지도](https://map.naver.com/p/search/%EB%B0%B1%EC%A3%BC%EB%B0%A9%20%EA%B2%BD%EA%B8%B0%20%EC%88%98%EC%9B%90%EC%8B%9C%20%EC%98%81%ED%86%B5%EA%B5%AC%20%EB%B2%95%EC%A1%B0%EB%A1%9C149%EB%B2%88%EA%B8%B8%20222%2C%201%EC%B8%B5)
+- [네이버 지도](https://map.naver.com/p/entry/place/37209085)
 
 #### 주류 종류 · 도수와 맛
 
@@ -121,7 +121,7 @@
 - 정규 운영시간: 수요일 17:00–다음 날 00:00 · 라스트오더 23:00
 - 차이: 야키토리를 중심으로 참치와 라멘도 고를 수 있어요. 꼬치구이 위주로 먹고 싶을 때.
 - 분위기 · 후기 기준: 카운터에서 굽는 모습을 볼 수 있고 테이블 좌석도 있다는 후기예요.
-- [네이버 지도](https://map.naver.com/p/search/%EC%A5%AC%ED%83%84%20%EA%B2%BD%EA%B8%B0%20%EC%88%98%EC%9B%90%EC%8B%9C%20%EC%98%81%ED%86%B5%EA%B5%AC%20%EC%84%BC%ED%8A%B8%EB%9F%B4%ED%83%80%EC%9A%B4%EB%A1%9C%20107%2C%20%EC%9B%94%EB%93%9C%EC%8A%A4%ED%80%98%EC%96%B4%20B33%ED%98%B8)
+- [네이버 지도](https://map.naver.com/p/entry/place/2043795260)
 
 #### 주류 종류 · 도수와 맛
 
@@ -141,7 +141,7 @@
 - 정규 운영시간: 수요일 17:30–다음 날 01:00
 - 차이: 모둠구이와 따뜻한 요리를 함께 고르는 곳. 여러 요리를 나눠 먹고 싶을 때.
 - 분위기 · 후기 기준: 나무 소재의 일본풍 인테리어와 다찌 좌석이 언급돼요. 활기차고 시끄러웠다는 후기도 있어 조용한 분위기를 보장하기는 어려워요.
-- [네이버 지도](https://map.naver.com/p/search/%ED%82%A4%ED%83%80%EC%95%BC%20%EC%88%98%EC%9B%90%EA%B4%91%EA%B5%90%EC%A0%90%20%EA%B2%BD%EA%B8%B0%20%EC%88%98%EC%9B%90%EC%8B%9C%20%EC%98%81%ED%86%B5%EA%B5%AC%20%EC%84%BC%ED%8A%B8%EB%9F%B4%ED%83%80%EC%9A%B4%EB%A1%9C%20107%2C%20204%EB%8F%99%20B1%EC%B8%B5%20B22%C2%B723%ED%98%B8)
+- [네이버 지도](https://map.naver.com/p/entry/place/1369234214)
 
 #### 주류 종류 · 도수와 맛
 
@@ -169,7 +169,7 @@
 - 정규 운영시간: 수요일 18:00–다음 날 00:30
 - 차이: 사시미를 중심으로 생선 요리와 식사 메뉴를 고르는 곳. 회 위주로 먹고 싶을 때.
 - 분위기 · 후기 기준: 작은 카운터와 2인 테이블이 있다는 후기예요. 좌석과 당일 사시미 구성은 확인이 필요해요.
-- [네이버 지도](https://map.naver.com/p/search/%EC%88%A0%EC%A7%91%EC%83%81%ED%98%84%20%EA%B2%BD%EA%B8%B0%20%EC%9A%A9%EC%9D%B8%EC%8B%9C%20%EC%88%98%EC%A7%80%EA%B5%AC%20%EA%B4%91%EA%B5%90%EC%A4%91%EC%95%99%EB%A1%9C296%EB%B2%88%EA%B8%B8%2010%2C%20%EA%B4%91%EA%B5%90%EB%A6%AC%EC%B9%98%EC%95%88%20101%ED%98%B8)
+- [네이버 지도](https://map.naver.com/p/entry/place/1478986425)
 
 #### 주류 종류 · 도수와 맛
 
@@ -190,7 +190,7 @@
 - 메뉴: 목살 2인분 + 삼겹살 1인분 · 각 180g
 - 정규 운영시간: 수요일 11:00–23:00
 - 차이: 돼지고기 총 540g. 직원이 구워주는 방식으로 목살과 삼겹살을 함께 먹고 싶을 때.
-- [네이버 지도](https://map.naver.com/p/search/%EC%A7%84%EC%A7%9C%EB%8F%BC%EC%A7%80%20%EA%B4%91%EA%B5%90%EC%83%81%ED%98%84%EC%A0%90%20%EA%B2%BD%EA%B8%B0%20%EC%9A%A9%EC%9D%B8%EC%8B%9C%20%EC%88%98%EC%A7%80%EA%B5%AC%20%EA%B4%91%EA%B5%90%EC%A4%91%EC%95%99%EB%A1%9C296%EB%B2%88%EA%B8%B8%2010) · [출처](https://www.diningcode.com/profile.php?rid=uc1Q1NeEhc4w)
+- [네이버 지도](https://map.naver.com/p/entry/place/1515414659) · [출처](https://www.diningcode.com/profile.php?rid=uc1Q1NeEhc4w)
 
 ### 화로양미 광교상현역점
 
@@ -198,7 +198,7 @@
 - 메뉴: 양갈비 모둠(스페셜모듬세트) 490g + 소고기 온면
 - 정규 운영시간: 수요일 16:00–23:00 · 라스트오더 22:30
 - 차이: 직원이 구워주는 양고기 모둠에 온면을 더하는 조합. 돼지고기 대신 양고기를 원할 때.
-- [네이버 지도](https://map.naver.com/p/search/%ED%99%94%EB%A1%9C%EC%96%91%EB%AF%B8%20%EA%B4%91%EA%B5%90%EC%83%81%ED%98%84%EC%97%AD%EC%A0%90%20%EA%B2%BD%EA%B8%B0%20%EC%9A%A9%EC%9D%B8%EC%8B%9C%20%EC%88%98%EC%A7%80%EA%B5%AC%20%EA%B4%91%EA%B5%90%EC%A4%91%EC%95%99%EB%A1%9C296%EB%B2%88%EA%B8%B8%206) · [출처](https://www.diningcode.com/profile.php?rid=qdFdzyB0FgY1)
+- [네이버 지도](https://map.naver.com/p/entry/place/1709031061) · [출처](https://www.diningcode.com/profile.php?rid=qdFdzyB0FgY1)
 
 ### 신현리 숯불닭갈비
 
@@ -206,11 +206,11 @@
 - 메뉴: 커플세트 + 주먹밥
 - 정규 운영시간: 11:00–23:00
 - 차이: 소금닭갈비 240g + 양념닭갈비 240g + 닭목살 200g, 총 680g. 두 가지 양념과 닭 특수부위를 함께 먹고 싶을 때.
-- [네이버 지도](https://map.naver.com/p/search/%EC%8B%A0%ED%98%84%EB%A6%AC%20%EC%88%AF%EB%B6%88%EB%8B%AD%EA%B0%88%EB%B9%84%20%EA%B2%BD%EA%B8%B0%20%EC%88%98%EC%9B%90%EC%8B%9C%20%EC%98%81%ED%86%B5%EA%B5%AC%20%EC%84%BC%ED%8A%B8%EB%9F%B4%ED%8C%8C%ED%81%AC%EB%A1%9C127%EB%B2%88%EA%B8%B8%2051%2C%201%EC%B8%B5) · [출처](https://www.diningcode.com/profile.php?rid=FPsCaWeppFqS)
+- [네이버 지도](https://map.naver.com/p/entry/place/1027336347) · [출처](https://www.diningcode.com/profile.php?rid=FPsCaWeppFqS)
 
 ## 확인 범위와 출처
 
-공개 목록과 후기 자료이며 매장에 직접 확인한 내용은 아니에요. 테이블링 두 링크는 이번 재조회에서 접근 제한(403)이 있어 전달된 10월 13일 조회 내용을 보존했어요. 모로미쿠시 메뉴·주소·시간은 다이닝코드와 대조했고, 후라후라는 야끼소바·주소·수요일 오픈을 대조했으나 마감시간이 달라요. 화로양미 온면은 다이닝코드 수록 후기 기준, 신현리 주먹밥은 전달된 조회자료 기준으로 당일 판매 여부를 다시 확인해요. 지도는 매장명과 주소를 포함한 검색 링크이며, 열어서 실제 매장을 확인해요.
+공개 목록과 후기 자료이며 매장에 직접 확인한 내용은 아니에요. 테이블링 두 링크는 이번 재조회에서 접근 제한(403)이 있어 전달된 10월 13일 조회 내용을 보존했어요. 모로미쿠시 메뉴·주소·시간은 다이닝코드와 대조했고, 후라후라는 야끼소바·주소·수요일 오픈을 대조했으나 마감시간이 달라요. 화로양미 온면은 다이닝코드 수록 후기 기준, 신현리 주먹밥은 전달된 조회자료 기준으로 당일 판매 여부를 다시 확인해요. 지도는 상호·지점과 주소를 대조한 네이버 매장 상세로 바로 연결돼요. 지도 링크 확인일은 2026년 10월 13일이에요.
 
 ### 추가 이자카야·주류 확인 자료
 
