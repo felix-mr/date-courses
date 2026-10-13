@@ -10,6 +10,8 @@ window.travelRecords = [
     "people": 2,
     "destinationStatus": "undecided",
     "reservationStatus": "undecided",
+    "restaurantCount": 10,
+    "drinksComparedAt": "2026-10-13",
     "updatedAt": "2026-10-13"
   },
   {
