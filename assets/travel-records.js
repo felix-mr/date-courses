@@ -2,6 +2,7 @@
 window.travelRecords = [
 {
   "id": "2026-10-31-yangpyeong-mind-glamping",
+  "shoppingStop": "하나로마트 용문농협단월점",
   "group": "scheduled",
   "kind": "plan",
   "region": "domestic",
