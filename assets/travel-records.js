@@ -1,5 +1,17 @@
 // Travel dates and record types are independent of folder research dates.
 window.travelRecords = [
+{
+  "id": "2026-10-31-yangpyeong-mind-glamping",
+  "group": "scheduled",
+  "kind": "plan",
+  "region": "domestic",
+  "start": "2026-10-31",
+  "end": "2026-11-01",
+  "people": 2,
+  "reservationStatus": "planned",
+  "destinationStatus": "undecided",
+  "updatedAt": "2026-10-19"
+},
   {
     "id": "2026-10-14-sanghyeon-gwanggyo-dinner",
     "group": "scheduled",
