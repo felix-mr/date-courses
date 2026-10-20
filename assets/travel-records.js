@@ -9,9 +9,10 @@ window.travelRecords = [
   "start": "2026-10-31",
   "end": "2026-11-01",
   "people": 2,
-  "reservationStatus": "planned",
+  "reservationStatus": "confirmed",
   "destinationStatus": "undecided",
-  "updatedAt": "2026-10-19"
+  "updatedAt": "2026-10-20",
+  "reservationConfirmedAt": "2026-10-20"
 },
   {
     "id": "2026-10-14-sanghyeon-gwanggyo-dinner",
