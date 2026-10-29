@@ -75,12 +75,23 @@ class PastaGuideTest(unittest.TestCase):
                 self.assertEqual(link.get('target'), '_blank')
                 self.assertTrue({'noopener', 'noreferrer'} <= set(link.get('rel', '').split()))
 
-    def test_uncertainties_and_price_ranges_are_explicit(self):
+    def test_uncertainties_are_explicit(self):
         for text in [self.html, self.md]:
             for term in ['예약 확정', '라스트오더 미확인', '출처 상충',
-                         '외부 케이크', '25,800–31,800원', '13:33 KST',
+                         '외부 케이크', '13:33 KST',
                          '13:44 KST', '13:46 KST', '좌석을 준비하지 못할 수 있음']:
                 self.assertIn(term, text)
+
+    def test_prices_are_absent_from_guide_and_related_summaries(self):
+        for text in [self.html, self.md]:
+            self.assertNotRegex(text, r'\d[\d,]*(?:[–~]\d[\d,]*)?\s*(?:만\s*)?원')
+            for term in ['한 접시 가격', '주문 예시 · 합계', '합리적인 가격', '예산', '가격 범위']:
+                self.assertNotIn(term, text)
+        for name in ['index.html', 'history.html', 'README.md']:
+            text = (ROOT / name).read_text()
+            for line in text.splitlines():
+                if ID in line:
+                    self.assertNotIn('메뉴·가격', line)
 
     def test_schedule_metadata_and_collection_coverage(self):
         data = (ROOT / 'assets/travel-records.js').read_text()
@@ -96,6 +107,17 @@ class PastaGuideTest(unittest.TestCase):
             self.assertEqual(text.count(f'data-record-id="{ID}"'), 1)
         for name in ['index.html', 'history.html', 'wishlist.html']:
             self.assertIn('travel-records.js?v=20261029-pasta', (ROOT / name).read_text())
+
+    def test_texture_recommendations_are_dish_specific_and_caveated(self):
+        self.assertEqual(list(self.parser.cards),
+                         ['winefine', 'contenente', 'snail', 'forkner', 'rootstay', 'onyou'])
+        for text in [self.html, self.md]:
+            for term in ['바질관자 크림', '2024년 1월 22일', '오래된 후기',
+                         '크림 파스타가 아니라 버터소스', '스파이시 홍게크림',
+                         '후기 연도', '직접 뒷받침하는 근거는 부족']:
+                self.assertIn(term, text)
+            self.assertIn('https://jolinge.tistory.com/entry/', text)
+            self.assertIn('rid=oqbqLqWoZHNT', text)
 
 
 if __name__ == '__main__':
