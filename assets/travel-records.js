@@ -1,6 +1,21 @@
 // Travel dates and record types are independent of folder research dates.
 window.travelRecords = [
 {
+  "id": "2026-10-29-sanghyeon-pasta",
+  "group": "scheduled",
+  "kind": "plan",
+  "region": "domestic",
+  "start": "2026-10-29",
+  "end": "2026-10-29",
+  "people": 2,
+  "destinationStatus": "undecided",
+  "reservationStatus": "undecided",
+  "restaurantCount": 6,
+  "plannedMeetingTime": "20:00",
+  "plannedDinnerTime": "20:30",
+  "updatedAt": "2026-10-29"
+},
+{
   "id": "2026-10-31-yangpyeong-mind-glamping",
   "shoppingStop": "하나로마트 용문농협단월점",
   "group": "scheduled",
@@ -204,3 +219,4 @@ window.travelRecords = [
     "region": "domestic"
   }
 ];
+
