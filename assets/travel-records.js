@@ -10,6 +10,9 @@ window.travelRecords = [
   "people": 2,
   "destinationStatus": "confirmed",
   "plannedEntry": "12:00 이후",
+  "transport": "everline",
+  "meetingPoint": "기흥역",
+  "meetingTime": null,
   "ticketStatus": {
     "self": "registered",
     "partner": "onsite_purchase_planned"

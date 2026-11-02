@@ -4,11 +4,20 @@
 
 - 방문일: 2026년 11월 3일 화요일, 낮 12시 조금 지나 입장 예정
 - 인원: 2명 / 종일권
+- 이동: 기흥역에서 만나 에버라인 이용 (사용자 확정). 만남 시각·역내 위치 미정.
 - 본인 티켓: 앱 등록 완료 (사용자 확인)
 - 여자친구 티켓: 11월 3일 현장 구매 예정. 구매·등록 완료가 아님.
 - 장소: 경기 용인 에버랜드 / 국내 · 동물원 · 놀이공원 · 데이트
 - 상태: 방문 예정. 실제 방문·탑승 후기는 아직 없음.
 - 확인일: 2026년 11월 2일
+
+## 가는 길·귀가
+
+- 기흥역 만남 → 에버라인 전대·에버랜드행 → 종점 하차 → 3번 출구 → 정문 셔틀 → 에버랜드.
+- 수인분당선 도착 시 에버라인 환승 표지 이용. 열차 이동 외에 셔틀 대기·현장 발권 시간도 고려.
+- 귀가: 정문 → 역 방면 셔틀 → 전대·에버랜드역 → 기흥행.
+- 공식 운행시간상 전대·에버랜드역 기흥행 막차 23:30. 운행 사정에 따라 변경 가능. 셔틀 종료 시각과 기흥 이후 각자 귀가편은 별도 확인 필요.
+- [기흥역 지도](https://map.naver.com/p/search/%EA%B8%B0%ED%9D%A5%EC%97%AD%20%EC%97%90%EB%B2%84%EB%9D%BC%EC%9D%B8)
 
 ## 현장 순서
 
@@ -52,7 +61,6 @@
 - 운동화·가벼운 가방, 저녁용 겉옷·핫팩.
 - 물에 젖는 놀이기구는 추위 고려.
 - 이동은 구역별로 묶고, 오르막이 부담되면 스카이크루즈 등 이동시설 운영·대기 확인.
-- 자차 이용 시 정문 쪽 유료주차장과 외곽 무료주차장·셔틀 비교. 주차 구역 사진 남기기.
 - [네이버 지도](https://map.naver.com/p/search/%EC%97%90%EB%B2%84%EB%9E%9C%EB%93%9C) — 기존 비교 페이지와 같은 에버랜드 검색 링크. 장소 ID는 별도 확인하지 않음.
 
 ## 근거·확인 범위
@@ -60,6 +68,8 @@
 - [공식 일별 운영정보](https://www.everland.com/everland/information/dailypark): 2026-11-02 조회, 11월 3일 시설·공연·운휴 확인.
 - [공식 모바일 이용권 FAQ](https://grp.everland.com/everedu/news/everedu_mobile_service_faq_2024.pdf), [공식 가이드](https://grp.everland.com/files/everland.pdf): 앱 등록·스마트줄서기 기본 안내. 과거 자료의 시설명·시간은 적용하지 않고 최신 일별 안내 사용.
 - [와일드 사바나 공식 소개](https://www.witheverland.com/427897): 로스트밸리 구역 도보 관람.
-- [공식 FAQ](https://www.everland.com/cscenter/faq-list), [교통·주차 안내](https://www.everland.com/everland/information/traffic).
+- [공식 FAQ](https://www.everland.com/cscenter/faq-list), [대중교통 안내](https://www.everland.com/everland/information/traffic?tab=public).
+- [공식 경전철 접근 안내](https://grp.everland.com/everedu/information/howto.html): 전대·에버랜드역 3번 출구 정문 셔틀.
+- [용인경전철 공식 운행시간](https://ever-line.co.kr/page/?M2_IDX=28909): 전대·에버랜드역 기흥행 막차 23:30. 11월 2일 재확인.
 
 티켓 상태는 사용자 확인으로만 기록했다. 추가 구매·예약·전화 문의는 하지 않았다. 비용은 표시하지 않았다. 기존 10월 18일 동물원 비교는 원본대로 보존한다.
