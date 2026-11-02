@@ -11,6 +11,7 @@ window.travelRecords = [
   "destinationStatus": "confirmed",
   "plannedEntry": "12:00 이후",
   "transport": "everline",
+  "activityOptionCount": 30,
   "meetingPoint": "기흥역",
   "meetingTime": null,
   "ticketStatus": {
