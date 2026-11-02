@@ -1,6 +1,22 @@
 // Travel dates and record types are independent of folder research dates.
 window.travelRecords = [
 {
+  "id": "2026-11-03-yongin-everland",
+  "group": "scheduled",
+  "kind": "plan",
+  "region": "domestic",
+  "start": "2026-11-03",
+  "end": "2026-11-03",
+  "people": 2,
+  "destinationStatus": "confirmed",
+  "plannedEntry": "12:00 이후",
+  "ticketStatus": {
+    "self": "registered",
+    "partner": "onsite_purchase_planned"
+  },
+  "updatedAt": "2026-11-02"
+},
+{
   "id": "2026-10-29-sanghyeon-pasta",
   "group": "scheduled",
   "kind": "plan",

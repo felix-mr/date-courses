@@ -105,8 +105,12 @@ class PastaGuideTest(unittest.TestCase):
         for name in ['index.html', 'history.html']:
             text = (ROOT / name).read_text()
             self.assertEqual(text.count(f'data-record-id="{ID}"'), 1)
+        versions = []
         for name in ['index.html', 'history.html', 'wishlist.html']:
-            self.assertIn('travel-records.js?v=20261029-pasta', (ROOT / name).read_text())
+            match = re.search(r'travel-records\.js\?v=([^\"]+)', (ROOT / name).read_text())
+            self.assertIsNotNone(match)
+            versions.append(match.group(1))
+        self.assertEqual(len(set(versions)), 1)
 
     def test_texture_recommendations_are_dish_specific_and_caveated(self):
         self.assertEqual(list(self.parser.cards),
