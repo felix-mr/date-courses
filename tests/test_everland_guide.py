@@ -25,6 +25,10 @@ class EverlandGuideTest(unittest.TestCase):
     def test_external_links(self):
         for a in self.p.links:
             if a['href'].startswith('https:'):
+                if a.get('class') == 'option-app-link':
+                    self.assertIn('app=1', a['href'])
+                    self.assertIn('aria-label', a)
+                    continue
                 self.assertEqual(a.get('target'),'_blank')
                 self.assertTrue({'noopener','noreferrer'}<=set(a.get('rel','').split()))
     def test_existing_options_preserved(self):
@@ -36,3 +40,17 @@ class EverlandGuideTest(unittest.TestCase):
                 self.assertIn(term,s)
         self.assertIn('name="viewport"',self.html)
         self.assertIn('@media(max-width:600px)',self.html)
+
+    def test_app_and_web_links_are_separate(self):
+        app=[a for a in self.p.links if a.get('class')=='option-app-link']
+        web=[a for a in self.p.links if a.get('class')=='option-web-link']
+        self.assertEqual(len(app),30)
+        self.assertEqual(len(web),30)
+        for a,w in zip(app,web):
+            self.assertTrue(a['href'].startswith('https://www.everland.com/'))
+            expected=w['href']+('&' if '?' in w['href'] else '?')+'app=1'
+            self.assertEqual(a['href'],expected)
+            self.assertNotIn('app=1',w['href'])
+        self.assertIn('개별 상세 아님',self.html)
+        self.assertIn('focus-visible',self.html)
+        self.assertNotIn('onclick=',self.html)
