@@ -1,6 +1,18 @@
 // Travel dates and record types are independent of folder research dates.
 window.travelRecords = [
 {
+  "id": "2026-11-08-gyeonggi-autumn-walk",
+  "group": "wishlist",
+  "kind": "candidate",
+  "region": "domestic",
+  "country": "대한민국",
+  "destinationStatus": "undecided",
+  "reservationStatus": "undecided",
+  "placeCount": 4,
+  "photoUnidentifiedPlaceCount": 1,
+  "updatedAt": "2026-11-08"
+},
+{
   "id": "2026-11-03-yongin-everland",
   "group": "scheduled",
   "kind": "plan",
@@ -239,4 +251,5 @@ window.travelRecords = [
     "region": "domestic"
   }
 ];
+
 
