@@ -8,9 +8,9 @@ window.travelRecords = [
   "country": "대한민국",
   "destinationStatus": "undecided",
   "reservationStatus": "undecided",
-  "placeCount": 4,
+  "placeCount": 5,
   "photoUnidentifiedPlaceCount": 1,
-  "updatedAt": "2026-11-08"
+  "updatedAt": "2026-11-15"
 },
 {
   "id": "2026-11-03-yongin-everland",
@@ -251,5 +251,6 @@ window.travelRecords = [
     "region": "domestic"
   }
 ];
+
 
 
