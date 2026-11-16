@@ -1,6 +1,20 @@
 // Travel dates and record types are independent of folder research dates.
 window.travelRecords = [
 {
+  "id": "2026-11-16-kumamoto-small-town",
+  "group": "wishlist",
+  "kind": "candidate",
+  "region": "overseas",
+  "country": "일본",
+  "destinationStatus": "undecided",
+  "reservationStatus": "undecided",
+  "tripLength": "3박4일",
+  "preferredPeriod": "2027-03/2027-04",
+  "ryokanCount": 3,
+  "hotelCount": 3,
+  "updatedAt": "2026-11-16"
+},
+{
   "id": "2026-11-08-gyeonggi-autumn-walk",
   "group": "wishlist",
   "kind": "candidate",
